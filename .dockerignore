@@ -1,0 +1,27 @@
+# git
+.git/
+.gitattributes
+.gitignore
+
+# deployments
+.dockerignore
+deployments/
+Dockerfile
+docker-compose.yml
+
+# ide
+.trunk/
+.vscode/
+
+# docs
+*.md
+
+# output binaries
+*.test
+*.out
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+server

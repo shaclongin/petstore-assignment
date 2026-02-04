@@ -1,0 +1,17 @@
+# ide
+.trunk/
+.vscode/
+
+# output binaries
+*.test
+*.out
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+server
+
+# coverage
+cover.txt
+cover.html
