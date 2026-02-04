@@ -85,3 +85,9 @@ ok      github.com/tanninio/home-assignment/cmd/app     1.635s  coverage: 64.0% 
 ok      github.com/tanninio/home-assignment/internal/adapters   1.972s  coverage: 44.8% of statements in ./...
 ok      github.com/tanninio/home-assignment/internal/ports/http 2.255s  coverage: 3.9% of statements in ./...
 ```
+
+
+
+### final screenshot
+<img width="1592" height="348" alt="Screenshot 2026-02-04 at 17 42 07" src="https://github.com/user-attachments/assets/7176c1c2-73da-439c-b073-59b45921d9ca" />
+
